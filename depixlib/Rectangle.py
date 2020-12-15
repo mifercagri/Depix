@@ -1,6 +1,6 @@
 
 
-class Rectangle():
+class Rectangle(object):
 	
 	def __init__(self, startCoordinates, endCoordinates):
 		
